@@ -1,3 +1,5 @@
+*two tail bootstrap test
+
 program define bstest_two
 
 	*set trace on 

@@ -1,3 +1,5 @@
+*right tail bootstrap test
+
 program define bstest_right
 
 	*set trace on 
